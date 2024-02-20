@@ -18,7 +18,7 @@ jobs:
         run: echo "Hello-Test_World"
         shell: bash
 
-  goofbye-test:
+  goodbye-test:
     runs-on: ubuntu-latest
     steps:
       - name: goodbye-test-world
